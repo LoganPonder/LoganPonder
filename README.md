@@ -14,8 +14,8 @@ I'm Logan Ponder, a creative marketing professional turned full-time coder. I'm 
 *   Space. I've got my fingers crossed on the whole "commercial space travel" thing.:rocket: 
 
 
-"We don't make mistakes, just happy little accidents"
--Bob Ross
+> "We don't make mistakes, just happy little accidents"
+> *-Bob Ross*
 <!--
 **LoganPonder/LoganPonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
