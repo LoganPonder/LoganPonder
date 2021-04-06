@@ -1,6 +1,6 @@
 ### Hi Friend! 👋
 
-I'm Logan Ponder, a Boise based Full-Stack Software Developer, with a passion for creating innovative, well-designed applications. I love a challenge, and being surrounded by like-minded individuals who push me to be better than yesterday.
+I'm Logan Ponder, a Boise based Full-Stack Software Developer, with a passion for creating meaningful, well-designed applications.
 
 When I'm not learning a new technology, I'm usually brainstorming innovative ways to layout and design a page. Crafting memorable applications is my thing.
 
@@ -12,7 +12,7 @@ When I'm not learning a new technology, I'm usually brainstorming innovative way
 *   Code
 *   Collaborating 
 *   Learning from others
-*   Playing the piano    
+*   Piano    
 *   Space. I've got my fingers crossed on the whole "commercial space travel" thing.:rocket: 
 
 
