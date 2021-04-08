@@ -4,9 +4,18 @@ I'm Logan Ponder, a Boise based Full-Stack Software Developer, with a passion fo
 
 When I'm not learning a new technology, I'm usually brainstorming innovative ways to layout and design a page. Crafting memorable applications is my thing.
 
- 💻  **My Tool Belt:**  JavaScript(Vue.js) • CSS/SCSS/Bootstrap • MVC Patterns • MongoDB • Node.js • Express • C#/ .NET • MySQL
+:email: **Let's Connect:** carl.ponder7@gmail.com
 
- :email: **Let's Connect:** carl.ponder7@gmail.com
+ 💻  **My Tool Belt:** 
+ 
+*   JavaScript(Vue.js)  
+*   CSS/SCSS/Bootstrap
+*   MVC Patterns
+*   MongoDB
+*   Node.js
+*   Express
+*   C#/.NET
+*   MySQL
 
  **What I love:**
 *   Code
@@ -14,6 +23,7 @@ When I'm not learning a new technology, I'm usually brainstorming innovative way
 *   Learning from others
 *   Piano    
 *   Space. I've got my fingers crossed on the whole "commercial space travel" thing.:rocket: 
+
 
 
 > "We don't make mistakes, just happy little accidents"
