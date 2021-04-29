@@ -4,6 +4,8 @@ I'm Logan Ponder, a Boise based Full-Stack Software Developer, with a passion fo
 
 When I'm not learning a new technology, I'm usually brainstorming innovative ways to layout and design a page. Crafting memorable applications is my thing.
 
+### Let's Connect!
+
 * **Email:** carl.ponder7@gmail.com 
 * **LinkedIn** www.linkedin.com/in/logan-ponder
     
